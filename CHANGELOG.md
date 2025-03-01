@@ -1,3 +1,8 @@
+## 3.1.1
+
+- Updates dependency versions
+- Fork related import renaming
+
 ## 3.1.0
 
 - Bump dependency versions
