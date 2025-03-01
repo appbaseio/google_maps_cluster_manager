@@ -1,4 +1,4 @@
-import '../google_maps_cluster_manager.dart';
+import '../google_maps_cluster_manager_appbase_fork.dart';
 import 'common.dart';
 
 class _MinDistCluster<T extends ClusterItem> {
